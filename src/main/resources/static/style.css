@@ -1,6 +1,6 @@
 @font-face {
   font-family: Mono;
-  src:url("MartianMono-Medium.ttf");
+  src:url("../fonts/MartianMono-Medium.ttf");
 }
 
 .navbar-brand {
@@ -20,15 +20,26 @@ nav{
 	color: white!important;
 }
 
+
+
 h4{
 	color: #d7d7d7!important;
 }
 
 .row{
-	background-color: darkred;
+	background-color: #930606;
 	border: 5px solid #000f2c;
 	border-radius: 32px;
 	padding: 15px;
+	transition: 1s all;
+}
+
+.row:hover{
+	background-color: #ab0707;
+}
+
+input{
+	background-color: black;
 }
 
 .modal-content{
