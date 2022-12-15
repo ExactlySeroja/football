@@ -1,0 +1,36 @@
+@font-face {
+  font-family: Mono;
+  src:url("MartianMono-Medium.ttf");
+}
+
+.navbar-brand {
+	font-family: Mono;
+	color: white!important;
+}
+
+body{
+	background-color: #000f2c !important;
+}
+
+nav{
+	background-color: #1277d9!important;
+}
+
+*{
+	color: white!important;
+}
+
+h4{
+	color: #d7d7d7!important;
+}
+
+.row{
+	background-color: darkred;
+	border: 5px solid #000f2c;
+	border-radius: 32px;
+	padding: 15px;
+}
+
+.modal-content{
+	background-color: black!important;
+}
