@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9ce9087-5e7a-44c9-93cf-dab68cb513e4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/seroja/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/seroja/controller/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/seroja/domain/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/seroja/domain/MatchInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/seroja/domain/Stadium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/seroja/repos/MatchRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="com.haulmont.jpb.JpaEntity" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2IrT1ezonLZjdfVNqqwhoGpOYRM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;37b4e2d82900d5e94b8da524fbeb33c0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Smart things\Projects\football\src\main\resources\static\fonts" />
+      <recent name="D:\Smart things\Projects\football\src\main\resources\static" />
+      <recent name="D:\Smart things\Projects\football\src\main\resources\templates" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.seroja" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.FootballApplication">
+    <configuration name="generated-requests | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="FootballApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="football" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.seroja.FootballApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.generated-requests | #1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9ce9087-5e7a-44c9-93cf-dab68cb513e4" name="Changes" comment="" />
+      <created>1670938489256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670938489256</updated>
+      <workItem from="1670938490845" duration="909000" />
+      <workItem from="1670939598206" duration="252000" />
+      <workItem from="1670939902330" duration="203000" />
+      <workItem from="1670940220900" duration="803000" />
+      <workItem from="1670941593591" duration="27000" />
+      <workItem from="1670941629642" duration="883000" />
+      <workItem from="1670947594349" duration="562000" />
+      <workItem from="1670948186996" duration="1316000" />
+      <workItem from="1670950647605" duration="2000" />
+      <workItem from="1670950835075" duration="584000" />
+      <workItem from="1670953622443" duration="284000" />
+      <workItem from="1670954976055" duration="31000" />
+      <workItem from="1671029906440" duration="628000" />
+      <workItem from="1671037827542" duration="795000" />
+      <workItem from="1671038656397" duration="1719000" />
+      <workItem from="1671043260367" duration="7000" />
+      <workItem from="1671097181631" duration="186000" />
+      <workItem from="1671097381709" duration="28000" />
+      <workItem from="1671097418152" duration="349000" />
+      <workItem from="1671097788258" duration="95000" />
+      <workItem from="1671097894295" duration="45000" />
+      <workItem from="1671097948694" duration="1796000" />
+      <workItem from="1671099768456" duration="635000" />
+      <workItem from="1671100948859" duration="1412000" />
+      <workItem from="1671102443886" duration="213000" />
+      <workItem from="1671102857017" duration="1172000" />
+      <workItem from="1671104039116" duration="451000" />
+      <workItem from="1671104498659" duration="39000" />
+      <workItem from="1671104549476" duration="22000" />
+      <workItem from="1671104588026" duration="200000" />
+      <workItem from="1671105196443" duration="1119000" />
+      <workItem from="1671106600738" duration="107000" />
+      <workItem from="1671106892830" duration="1954000" />
+      <workItem from="1671109604930" duration="1137000" />
+      <workItem from="1671110848608" duration="1957000" />
+      <workItem from="1671112839090" duration="644000" />
+      <workItem from="1671113500723" duration="1503000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
